@@ -1,0 +1,9 @@
+services:
+  simpson-dl:
+    build: .
+    container_name: simpson_dl_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    restart: unless-stopped
