@@ -369,27 +369,7 @@ que ninguna variación de hiperparámetros las resuelve.
 
 ---
 
-## 12. Estructura del proyecto
 
-```
-.
-├── README.md                    ← este informe técnico
-├── requirements.txt             ← dependencias y versiones
-├── notebooks/
-│   └── prueba 1 tecnicas de machine learning.ipynb
-├── data/
-│   └── README.md                ← el dataset se descarga con kagglehub (no se versiona)
-├── models/                      ← modelo entrenado e historiales (generados al ejecutar)
-├── images/                      ← figuras del análisis (generadas al ejecutar)
-├── presentacion/
-│   ├── GUIA_PRESENTACION.md     ← estructura, diseño y guion de la defensa
-│   ├── PROMPT_NOTEBOOKLM.md     ← prompts para generar la PPT
-│   └── BANCO_PREGUNTAS.md       ← preparación para las preguntas cruzadas
-├── PASOS_FINALES.md             ← checklist de cierre de la entrega
-└── EP1_TLY1102_Instrucciones y Pauta PRESENTACIÓN_Estudiante.pdf
-```
-
----
 
 ## 13. Cómo reproducir la solución
 
