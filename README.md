@@ -254,19 +254,19 @@ entrenamiento, mismo tope de épocas, `EarlyStopping` con `restore_best_weights=
 
 | Métrica | Valor obtenido | Umbral KPI | Estado |
 |---|---|---|---|
-| Accuracy (validación) | *(pendiente)* | **≥ 60 %** | *(pendiente)* |
-| F1-Score macro | *(pendiente)* | **≥ 0,55** | *(pendiente)* |
-| Recall mínimo por clase | *(pendiente)* | **≥ 0,30** | *(pendiente)* |
-| Tiempo de entrenamiento | *(pendiente)* | **< 300 s** | *(pendiente)* |
+| Accuracy (validación) | *39.00% * | **≥ 60 %** | *No cumple* |
+| F1-Score macro | *0.370* | **≥ 0,55** | *No cumple* |
+| Recall mínimo por clase | * 0.10* | **≥ 0,30** | *No cumple* |
+| Tiempo de entrenamiento | *23 s* | **< 300 s** | *Cumple* |
 | Línea base (azar) | 20 % | — | referencia |
 
 | Personaje | Precision | Recall | F1-Score | Soporte |
 |---|---|---|---|---|
-| homer_simpson | *(pendiente)* | *(pendiente)* | *(pendiente)* | 20 |
-| ned_flanders | *(pendiente)* | *(pendiente)* | *(pendiente)* | 20 |
-| lisa_simpson | *(pendiente)* | *(pendiente)* | *(pendiente)* | 20 |
-| bart_simpson | *(pendiente)* | *(pendiente)* | *(pendiente)* | 20 |
-| milhouse_van_houten | *(pendiente)* | *(pendiente)* | *(pendiente)* | 20 |
+| homer_simpson | *0.39* | *0.55* | *0.46* | 20 |
+| ned_flanders | *0.54* | *0.35* | *0.42* | 20 |
+| lisa_simpson | *0.30* | *0.50* | *0.38* | 20 |
+| bart_simpson | *0.67* | *0.10* | *0.17* | 20 |
+| milhouse_van_houten | *0.39* | *0.45* | *0.42* | 20 |
 
 ### Figuras generadas
 
