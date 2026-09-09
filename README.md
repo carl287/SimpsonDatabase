@@ -371,7 +371,7 @@ que ninguna variación de hiperparámetros las resuelve.
 
 
 
-## 13. Cómo reproducir la solución
+## 12. Cómo reproducir la solución
 
 ### Opción A — Google Colab (recomendada)
 
