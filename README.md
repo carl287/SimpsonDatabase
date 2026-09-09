@@ -5,9 +5,9 @@
 
 | Ítem | Detalle |
 |---|---|
-| **Integrantes** | *(completar con los nombres del grupo)* |
-| **Sección / Docente** | *(completar)* |
-| **Fecha** | *(completar)* |
+| **Integrantes** | *Joaquin sanhueza, Carlos calvio, fernando guzman, vicente cossio* |
+| **Sección / Docente** | *Seccion: 001-D Docente: Marco Japke* |
+| **Fecha** | *9/9/2026* |
 | **Dataset** | [`alfaro96/los-simpson`](https://www.kaggle.com/datasets/alfaro96/los-simpson) |
 | **Variante del grupo** | 5 personajes · 100 imágenes por clase · `SEED = 67` |
 | **Notebook** | [`notebooks/prueba 1 tecnicas de machine learning.ipynb`](notebooks/) |
